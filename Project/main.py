@@ -42,8 +42,8 @@ train, validate, test = np.split(questions.sample(frac=1), [int(.8 * len(questio
 y = train[['topic']]
 
 vectorizer = CountVectorizer(analyzer="word", max_features=8913)
-vectorizer.fit(train['question'])
-train_data_features = vectorizer.transform(train['question']).toarray()
+vectorizer.fit(train['question'], train['answer'])
+train_data_features = vectorizer.transform(train['question']).toarray() + vectorizer.transform(train['answer']).toarray()
 
 forest = RandomForestClassifier(n_estimators = 150)
 forest = forest.fit(train_data_features, y['topic'])
@@ -55,3 +55,8 @@ result = forest.predict(test_data_features)
 output = pd.DataFrame(data={"id":test["id"], "topic":result})
 output.to_csv('final.csv', index=False, quoting=3)
 
+generated_questions = pd.read_csv("data/sample_crowdsourcing.tsv", header=None, encoding="utf-8", sep="\t")
+generated_questions.columns = ['id', 'question', 'answer', 'difficulty', 'opinion', 'factuality']
+generated_questions.groupby(['question'])
+
+print(generated_questions.groupby(['question'])['question'].count())

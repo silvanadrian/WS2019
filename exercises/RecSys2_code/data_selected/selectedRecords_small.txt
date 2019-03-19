@@ -1,0 +1,1000 @@
+cx:lo0s6rngjd111p7dgxxvj2y6y:33hmfzes9x0yn	9	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	466	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:2gcnj061e2zz1dwnqk8yhv2yp:2r0fe9ekqec1v	32	Vassfjellet,Innbrudd
+cx:ingb68nkjywbce3d:3aizgkitiquss	331	Baby,Bioteknologi,Fødsel,Helse,Svangerskap
+cx:ifa61e6grusoket6:3nbl45cgx3lz7	134	Trøndelag politidistrikt
+cx:hwcel2lt7o01whx8:3m828rocxjbne	51	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:1wuel58my406c277lpq0k7gmy4:39vwjf2pw5138	21	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:fz50mkepskbz1bhbsonrxatwb:2bv2dnsix8gwl	114	Vassfjellet,Innbrudd
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	46	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ikt31ks11f0v988r:mgiyccdm870o	91	Hund,Ulv,Verdal
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	48	Vassfjellet,Innbrudd
+cx:ijrnuuor7mbrohmg:1ey4i9ki64xt	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	91	Vassfjellet,Innbrudd
+cx:ijphgcgc3cbaumob:cnb630ck60ex	82	Hund,Ulv,Verdal
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	75	Hund,Ulv,Verdal
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	43	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ik9s5jbx6j637hae:20hjr5f2scl13	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2w8ltvm2r8dc35f8cuj1lwa5o:3f7p3yo3ahp44	74	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijrnuuor7mbrohmg:1ey4i9ki64xt	22	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:387c1v8rng742200p4ht8br3ry:wz439aj8puft	11	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:iha8h2vann7kqtnz:1q5g23tm3j10h	37	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijep25nkd7itprbt:3uobjxcc1eysw	145	Hund,Ulv,Verdal
+cx:2gcnj061e2zz1dwnqk8yhv2yp:2r0fe9ekqec1v	135	Hybridbil,Elbil
+cx:1rfwmyl8199aw2sqagjs6kspnz:2vn4bfrm61vyt	131	Hund,Ulv,Verdal
+cx:1l2z7rjbxfyn93opo6x66dw9xq:3pxqdt16f67ca	20	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:2zjasdcgvn6t7dbngtpnoddsr:2xwzi0yh6odye	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	174	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijrnuuor7mbrohmg:1ey4i9ki64xt	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:387c1v8rng742200p4ht8br3ry:wz439aj8puft	35	Vassfjellet,Innbrudd
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ik05mep34jwo9oai:uqhohl8zg3l4	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:vk15lqgee6envhwzs8mlkcyy:1wgep3b8gb2ps	11	mobil
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	3	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:2zjasdcgvn6t7dbngtpnoddsr:2xwzi0yh6odye	89	Hund,Ulv,Verdal
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	27	Trøndelag politidistrikt
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	106	Vassfjellet,Innbrudd
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	15	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:igv1gdc9evybjnpi:38kuzlqn6xt9u	115	Trøndelag politidistrikt
+cx:ie61ga8udk5w0eb9:25o6jxwofhyq9	183	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:im33cr5t9vh4ylwe:2y87w442pc2k6	300	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:1md9tlyft7puk1sxf2y1n5jhh3:3iqvjco0i1l02	83	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:inkdbu74kyi5jyuk:1vthzvjeyvhtf	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iha8h2vann7kqtnz:1q5g23tm3j10h	82	Hund,Ulv,Verdal
+cx:ig1zh6lz2md204nx:3a7og4crsp2bs	70	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	67	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:i5jhonpmftas8hsa:2fjd8jpzhate7	197	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ibawlzf8k8o9k4mc:ksw3zrf15wku	235	Hopp
+cx:ik9s5jbx6j637hae:20hjr5f2scl13	120	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i1nh7nuboyq02nd9:2vqrqng5zztsx	206	matematikk,Lærerløftet,Lærerutdanning,NTNU
+cx:21riktlcqg8bxasesrcleft8f:3b9evi7tygq70	29	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijqw96gwchjjasgn:3kv58ltz71k2b	34	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1359737723239887528960:avfcoljrgl5u	31	Rema,Dagligvare,Økonomi
+cx:1l2z7rjbxfyn93opo6x66dw9xq:3pxqdt16f67ca	124	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:1zlvtt2rf1eckwzgur10pl8ij:13kvzen7c6dud	2	Trøndelag politidistrikt
+cx:hwcel2lt7o01whx8:3m828rocxjbne	36	Hybridbil,Elbil
+cx:2dhhv3dz6lvbh3cx9fnfkbvybs:1igq2p9ozhel8	68	matematikk,Lærerløftet,Lærerutdanning,NTNU
+cx:htkipe5w759w5vw9:2souxtezokfus	63	Hund,Ulv,Verdal
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	4	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:iiu62w2vloz31sr4:21asif8ezms3c	7	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iodc1bb2ynq1zvb0:rumsjef3oy5p	42	Hund,Ulv,Verdal
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	13	Tour de ski,Ski,Charlotte Kalla
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	13	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:3pwek0xebbcob2a35hwj2n0b58:16evss0o4i4vv	225	Åge Aleksandersen,Musikk,Byåsen,Kirken,Folk,Gunnar Pedersen,Royal Albert Hall
+cx:1314301665754761626909:1578oj8o9m8xn	58	Ranheim IL,OBOS-ligaen,Fotball 1. div,Eliteserien,Fotball,Molde FK
+cx:ik05mep34jwo9oai:uqhohl8zg3l4	7	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inkdbu74kyi5jyuk:1vthzvjeyvhtf	10	Hund,Ulv,Verdal
+cx:3810dwwu80yre1ucn64o67tdu9:2pamvywvjxwoa	137	Trening,Overvekt,Næringsmiddelindustrien
+cx:ia2hhlmgmiqn5mm3:defcmikz7aw7	116	Hopp,Farger,Daniel Andre Tande
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	92	Hund,Ulv,Verdal
+cx:c8dd1d33179b0fbce7b305539826f30a:3g24z6t0ijhi	31	Hund,Ulv,Verdal
+cx:1zlvtt2rf1eckwzgur10pl8ij:13kvzen7c6dud	17	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2zeq8qbe3ayv321t7puv5lwcpb:2ya68s7i3vppj	22	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2mf7o9i8pfxqiesue3lgfn203:2qillayddul8f	41	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	92	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	12	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:inkdbu74kyi5jyuk:1vthzvjeyvhtf	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijphgcgc3cbaumob:cnb630ck60ex	128	Vassfjellet,Innbrudd
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	13	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	186	Rema,Dagligvare,Økonomi
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	174	Hund,verdens tøffeste hundeløp,tur
+cx:1wco29bnwjeb62xv90tupcvo4w:2lq75ceqoddxc	43	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ibb7ns9j6ejd46rh:8ms7yxl8hp42	262	Trening,Overvekt,Næringsmiddelindustrien
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	20	Håndball,Linn Jørum Sulland,Jeanett Kristiansen,Vipers Kristiansand,Kenneth Gabrielsen
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	16	Rema,Dagligvare,Økonomi
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ik05mep34jwo9oai:uqhohl8zg3l4	21	Trening,Overvekt,Næringsmiddelindustrien
+cx:ig1zh6lz2md204nx:3a7og4crsp2bs	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3bqckvglpns0821uushv269auj:q8h30zm37cr5	84	Hund,Ulv,Verdal
+cx:2vzfgneipfago1vr05ebuwg9mk:yv5rf6kdgtlg	81	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:htkipe5w759w5vw9:2souxtezokfus	5	Hund,Jakt,hundekjøring,Kjæledyr
+cx:iodc1bb2ynq1zvb0:rumsjef3oy5p	68	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:io5mlomhadajxeh2:2wdr8prolv29y	9	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13721513391821129554703:15tjuaf4pjbst	56	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1343562653128429269256:1wz752ffi1771	24	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:htkipe5w759w5vw9:2souxtezokfus	32	Hund,Ulv,Verdal
+cx:ill1g3u6lik8vr3o:1ugzkuk3ut2kj	56	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:idc4dkrljbviodge:1eggkl2ukpju9	31	Vassfjellet,Innbrudd
+cx:ilcshwymctldhhz5:oprv1ke6o8np	60	Tour de ski,Ski,Petter Northug,Martin Johnsrud Sundby
+cx:io5mlomhadajxeh2:2wdr8prolv29y	14	Hybridbil,Elbil
+cx:iog22jtg9aroizrs:2rfjnaet0ie8e	50	Ski-VM,Langrenn,Trondheim
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	88	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:2mf7o9i8pfxqiesue3lgfn203:2qillayddul8f	77	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ic3t35x4ta4mjp2o:2rohc7n2hu31p	16	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:2gcnj061e2zz1dwnqk8yhv2yp:2r0fe9ekqec1v	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iha8h2vann7kqtnz:1q5g23tm3j10h	93	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:io5mlomhadajxeh2:2wdr8prolv29y	459	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	63	Vassfjellet,Innbrudd
+cx:1pii188w6tyne131i1dcgml9gh:2fm1np380l6cg	69	Vassfjellet,Innbrudd
+cx:htkipe5w759w5vw9:2souxtezokfus	38	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	4	Hund,Ulv,Verdal
+cx:inkdbu74kyi5jyuk:1vthzvjeyvhtf	374	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	80	Vassfjellet,Innbrudd
+cx:1343562653128429269256:1wz752ffi1771	116	Vassfjellet,Innbrudd
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	104	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ik9s5jbx6j637hae:20hjr5f2scl13	44	Trøndelag politidistrikt
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	31	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	59	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	88	Vassfjellet,Innbrudd
+cx:1wco29bnwjeb62xv90tupcvo4w:2lq75ceqoddxc	2	Trøndelag politidistrikt
+cx:3qp3lweegzog32pf8bysvm0fon:52z5de1dnj1p	103	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	398	Trondheim stasjonssenter,Brattøra,Trondheim Sentralstasjon,Rom Eiendom
+cx:1zlvtt2rf1eckwzgur10pl8ij:13kvzen7c6dud	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3ny1lwklkwjew2vqwkl5adkarl:3lqt7vftb3hfu	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1l2z7rjbxfyn93opo6x66dw9xq:3pxqdt16f67ca	127	Trøndelag politidistrikt
+cx:1355140679098680766816:32p3voe9dbwwt	56	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:3qk3038o38vpt1lbk4jpntfbyj:1wqrq3pz2k0df	132	Vassfjellet,Innbrudd
+cx:1lqst5529pask2nq6is4vwz90m:1dfghwwir7jdd	52	Hund,Ulv,Verdal
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	19	Hund,Ulv,Verdal
+cx:hzwanrk3d0f07yz5:2hdy6c4t6gnph	59	Hund,Ulv,Verdal
+cx:ieeadrvbp58j89kz:v93u2919jieg	65	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	46	Trøndelag politidistrikt
+cx:i8rl4aybtq2ingfc:3mzsqveeqwzzl	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ignciiwynusm0rcr:2esg2avs7crm0	34	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inx61itr6wp26ghf:2tmr65uc79vz4	138	Hund,Ulv,Verdal
+cx:htkipe5w759w5vw9:2souxtezokfus	5	Hund,Ulv,Verdal
+cx:idc4dkrljbviodge:1eggkl2ukpju9	40	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:14w5t10s6sfvt3quayona2d0jg:3gy0d8y6moi5l	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1m0dupfv97gglk5u9yfw65lhl:2sjgjqpk418jv	36	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ifa61e6grusoket6:3nbl45cgx3lz7	173	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3ewak1d0l7r2n3c1y8ceobawbi:1t5rrtz98066c	205	Vassfjellet,Innbrudd
+cx:13300999803271088401115:e99xgu77rwo8	39	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1n3ass3y4omzqpgwj0gwsqk51:2aml41zxhsp75	89	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:2zeq8qbe3ayv321t7puv5lwcpb:2ya68s7i3vppj	92	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i8w1zmome1ylpr49:3rwkdnluu39hy	43	Hund,Ulv,Verdal
+cx:2hlokd1ecthx81gia99yy464xt:13b8ml7zctj4a	44	FC København,Ståle Solbakken,E-sport
+cx:htkipe5w759w5vw9:2souxtezokfus	113	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:1364308033658461139577:35hrk4la7mjk4	209	Hund,Ulv,Verdal
+cx:2mf7o9i8pfxqiesue3lgfn203:2qillayddul8f	50	Trøndelag politidistrikt
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	97	Erik Hamrén,Ole Gunnar Solskjær,Ståle Solbakken,Bob Bradley,Nils Johan Semb,Per-Mathias Høgmo,Premier League
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	36	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:11mlc1xkmco4i2bw6l3go9adm2:70up2wmiw2oq	22	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2e039yy75uqg41hmdtzdyasfsw:k8dwdae97kmd	60	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:iodc1bb2ynq1zvb0:rumsjef3oy5p	25	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:ik9s5jbx6j637hae:20hjr5f2scl13	112	Rema,mat,Reitangruppen
+cx:ilmuhwwygxkusd2o:q31d18n17isq	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1qjh5hksx34mn3cm935d6vz67:3gdg5jjw3c1be	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:aswhx8ekdblb2lzs6u2y7nh2j:1axmj1qfnjg7x	35	Trening,Overvekt,Næringsmiddelindustrien
+cx:if7ah7d2ts48oxpo:1739ast6o8x4d	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3bqckvglpns0821uushv269auj:q8h30zm37cr5	190	Trøndelag politidistrikt
+cx:i4ufsc1x16td3dc1:1xzo8l0r93nfb	89	Vassfjellet,Innbrudd
+cx:13879315587291667925683:2yd8vefb3zr9	105	Rema,Dagligvare,Økonomi
+cx:i8yn4prm4wghg0vj:284j5kgti8389	117	Rasisme,Paris Saint-Germain,Chelsea FC ,The Guardian,Paris,Supporter
+cx:2th9t1trz3lww109rgixqbvjuk:kk6f0yxsbqvq	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2g3bt2zsx1zx7ouhxod877sxe:3srt312pyxnut	85	Hund,Ulv,Verdal
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	15	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ia8dj63xcu9wpcmg:3lrcyfg7vr9qs	90	Rema,Dagligvare,Økonomi
+cx:3ty9504asocbv3b0hn0vobkxp6:1pj4biwlu0o3t	203	Trening,Overvekt,Næringsmiddelindustrien
+cx:11mlc1xkmco4i2bw6l3go9adm2:70up2wmiw2oq	71	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:26ey2dhgt6nul1sv0z4bflw02o:2e3n4aa5rfoxi	102	Hybridbil,Elbil
+cx:hzwanrk3d0f07yz5:2hdy6c4t6gnph	13	Rema,Dagligvare,Økonomi
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	85	Bymarka,Savnet,Hund,Trondheim
+cx:ignciiwynusm0rcr:2esg2avs7crm0	14	Hund,Ulv,Verdal
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	30	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1lqst5529pask2nq6is4vwz90m:1dfghwwir7jdd	9	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	1	Rema,mat,Reitangruppen
+cx:3k225yvqwqzjbeuy09r5028d9:35b6u540he2a8	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:14w5t10s6sfvt3quayona2d0jg:3gy0d8y6moi5l	29	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:3k225yvqwqzjbeuy09r5028d9:35b6u540he2a8	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ecc0y6zt0z9z3qulxq0peru7e:20oqqp0n340fs	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2dhhv3dz6lvbh3cx9fnfkbvybs:1igq2p9ozhel8	1	matematikk,Lærerløftet,Lærerutdanning,NTNU
+cx:i8w1zmome1ylpr49:3rwkdnluu39hy	76	Hund,verdens tøffeste hundeløp,tur
+cx:13300999803271088401115:e99xgu77rwo8	77	Hund,Ulv,Verdal
+cx:hzwanrk3d0f07yz5:2hdy6c4t6gnph	4	Hund,Ulv,Verdal
+cx:i1nh7nuboyq02nd9:2vqrqng5zztsx	59	Rasisme,Paris Saint-Germain,Chelsea FC ,The Guardian,Paris,Supporter
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	60	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ijxf1puc4p839mds:3nualgjzva4gc	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i5jhonpmftas8hsa:2fjd8jpzhate7	54	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:idc4dkrljbviodge:1eggkl2ukpju9	160	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:2qdkie467gktt10he6c02r64su:1qqae7iuoqidv	56	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:fn1nvnwg1m8kkvgiqq1i5sxv:1khgp4edp5hxb	61	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijrlp1elwdlvqamf:1mdm6d9dzalvy	23	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:iodc1bb2ynq1zvb0:rumsjef3oy5p	9	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1vl9zqcfvji9g3rj2nu2gua66c:2af6tnos4fqd3	329	Trøndelag politidistrikt
+cx:if7ah7d2ts48oxpo:1739ast6o8x4d	40	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:ii7n2nxlqvn22jn1:2npozzgvbhx2q	307	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1vt21p3wgp1yc2eidkuoky7220:3cwbwb7836n6j	134	Vassfjellet,Innbrudd
+cx:2th9t1trz3lww109rgixqbvjuk:kk6f0yxsbqvq	9	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	180	Trøndelag politidistrikt
+cx:iehbk5kiehv57o82:3rh910bbwo2tz	10	Vassfjellet,Innbrudd
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	49	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:1314301665754761626909:1578oj8o9m8xn	4	Ranheim IL,OBOS-ligaen,Fotball 1. div,Eliteserien,Fotball,Molde FK
+cx:3qp3lweegzog32pf8bysvm0fon:52z5de1dnj1p	228	Trøndelag politidistrikt
+cx:1lqst5529pask2nq6is4vwz90m:1dfghwwir7jdd	5	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1343562653128429269256:1wz752ffi1771	58	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ecc0y6zt0z9z3qulxq0peru7e:20oqqp0n340fs	28	Trøndelag politidistrikt
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	133	Trening,Overvekt,Næringsmiddelindustrien
+cx:3j5pv0n0n62c8pva0e0sgxe58:3tx51sxaqh72e	96	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:2mf7o9i8pfxqiesue3lgfn203:2qillayddul8f	11	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:io6ffhqb7oejs6n3:11i8rxhke3u5o	63	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1f58nnxg2f7yy11s2xjw7gt1vb:3fjrllfyxz00b	155	Hund,Ulv,Verdal
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	57	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	104	Hybridbil,Elbil
+cx:ijxf1puc4p839mds:3nualgjzva4gc	1	Trøndelag politidistrikt
+cx:hxi3m3vcq5byh4jq:29xfm2uvyjakc	58	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i0jgmx8bx407qiya:3mbnh1j4qy87u	42	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijqvkbdxlrf249sr:2q4icaxnewann	239	mobil
+cx:ill1g3u6lik8vr3o:1ugzkuk3ut2kj	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:14w5t10s6sfvt3quayona2d0jg:3gy0d8y6moi5l	21	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ecc0y6zt0z9z3qulxq0peru7e:20oqqp0n340fs	45	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	42	CES-messen,Teknologi,Samsung,TV
+cx:2th9t1trz3lww109rgixqbvjuk:kk6f0yxsbqvq	51	Trøndelag politidistrikt
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	48	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:hzwanrk3d0f07yz5:2hdy6c4t6gnph	13	Norsk Tipping,Tipping,John Carew,Lotteri- og stiftelsestilsynet
+cx:ijxf1puc4p839mds:3nualgjzva4gc	99	Trening,Overvekt,Næringsmiddelindustrien
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	44	Hund,verdens tøffeste hundeløp,tur
+cx:i8w1zmome1ylpr49:3rwkdnluu39hy	39	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:i4ufsc1x16td3dc1:1xzo8l0r93nfb	68	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2zjasdcgvn6t7dbngtpnoddsr:2xwzi0yh6odye	79	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	39	Hund,Ulv,Verdal
+cx:13300999803271088401115:e99xgu77rwo8	178	Vassfjellet,Innbrudd
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	89	Hund,Ulv,Verdal
+cx:ill1g3u6lik8vr3o:1ugzkuk3ut2kj	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:im33cr5t9vh4ylwe:2y87w442pc2k6	56	Rasisme,Paris Saint-Germain,Chelsea FC ,The Guardian,Paris,Supporter
+cx:inx61itr6wp26ghf:2tmr65uc79vz4	541	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:hxnsg4sjyytofy50:inbazx51viym	73	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1343562653128429269256:1wz752ffi1771	89	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:i0jgmx8bx407qiya:3mbnh1j4qy87u	41	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hz1329hwkhz8vx3z:2tdu69muanzin	21	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inlxd3swh9rxgy18:5afhhw3bvjgp	20	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	1	Trøndelag politidistrikt
+cx:1383088634541938260407:1e1vv9d1sqjb7	41	Hund,Ulv,Verdal
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	1	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:2qdkie467gktt10he6c02r64su:1qqae7iuoqidv	122	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	6	Erik Hamrén,Ole Gunnar Solskjær,Ståle Solbakken,Bob Bradley,Nils Johan Semb,Per-Mathias Høgmo,Premier League
+cx:2r7vtv9nahy0o3smurs5hfye99:1mok8w4mp5659	95	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	17	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	11	Hund,Ulv,Verdal
+cx:3dqwyq8uph2eo261nsx4imxw03:18oaz7q4sf2w3	132	Trafikksikkerhet,Forbrukerrettigheter
+cx:ilatxi5rp1yefply:1r3ttrtympd22	29	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	66	Trøndelag politidistrikt
+cx:26ey2dhgt6nul1sv0z4bflw02o:2e3n4aa5rfoxi	27	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	66	Hund,Jakt,hundekjøring,Kjæledyr
+cx:iixdpks7r1cew51u:14epy7vnum4hj	100	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilhmumvrt41eo6wb:1uhvfttq77gh8	36	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ige5xutw657ncnef:1ccte3c5jil6t	98	Hund,Ulv,Verdal
+cx:2th9t1trz3lww109rgixqbvjuk:kk6f0yxsbqvq	152	Hybridbil,Elbil
+cx:3j5pv0n0n62c8pva0e0sgxe58:3tx51sxaqh72e	69	Hund,Ulv,Verdal
+cx:inlxd3swh9rxgy18:5afhhw3bvjgp	80	Hund,Ulv,Verdal
+cx:ia8dj63xcu9wpcmg:3lrcyfg7vr9qs	130	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:hxi3m3vcq5byh4jq:29xfm2uvyjakc	226	Vassfjellet,Innbrudd
+cx:i730lmmklkq6ql1k:2r2y02wtrotaw	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	192	Vassfjellet,Innbrudd
+cx:igyrw9kqnu5jjyd2:vs2pdwgvvgq4	18	Hund,Ulv,Verdal
+cx:i4ufsc1x16td3dc1:1xzo8l0r93nfb	198	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:hz1329hwkhz8vx3z:2tdu69muanzin	109	Hund,Ulv,Verdal
+cx:1348933183568631595559:3hww1rv4hds4w	76	Hund,Ulv,Verdal
+cx:io6ffhqb7oejs6n3:11i8rxhke3u5o	14	Rema,Dagligvare,Økonomi
+cx:i5jhonpmftas8hsa:2fjd8jpzhate7	128	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i1t4gamy7grhuzhd:3lkub2gn4ibac	94	Vassfjellet,Innbrudd
+cx:2twqn8prqcw9iw0d3vwg251jf:36jt5h8fdb249	16	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilatxi5rp1yefply:1r3ttrtympd22	12	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:3gw2nq96dpd512xxmxj7wg861y:3co84d1esin5h	46	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:1vt21p3wgp1yc2eidkuoky7220:3cwbwb7836n6j	12	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i5mepj1rrk78io27:1g2v9vcikk9gl	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13888468618221267145530:1424uodcnfrj5	29	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:i730lmmklkq6ql1k:2r2y02wtrotaw	24	Vassfjellet,Innbrudd
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	63	debatt,ordet fritt,Senterpartiet,pelsdyrhold,kristendom,oljeindustrien
+cx:1364308033658461139577:35hrk4la7mjk4	612	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:14xkb4di585bk58m1c6uh9u8m:3k72mgtgtbivm	271	Vassfjellet,Innbrudd
+cx:1383088634541938260407:1e1vv9d1sqjb7	135	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:ifa61e6grusoket6:3nbl45cgx3lz7	281	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:mnsozob4er2ri37v9fg7l8kx:2lnagzcn0x62p	28	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilatxi5rp1yefply:1r3ttrtympd22	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:351hbgy3d6cwl2qgt7hg4gna7t:30aslcapnur0e	51	Hund,Ulv,Verdal
+cx:i5mepj1rrk78io27:1g2v9vcikk9gl	10	Hund,Ulv,Verdal
+cx:hu5w27icf0ex90ne:jyn75gm6mxvm	201	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	69	Hopp
+cx:i8yn4prm4wghg0vj:284j5kgti8389	18	Opplysningsrådet for veitrafikken,plug in-hybrid,Elbiler,Mitsubishi Outlander PHEV
+cx:ilrps8bwuynv6k8b:22w0q3vipe9lg	46	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1ye21vxf2o9sj6z92gaqec24n:k7vaypo61hp6	37	Hund,Ulv,Verdal
+cx:ijtvpzyn37dm6s27:riidc3c7mlor	90	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:i6jifu6vvwbhynto:1dauc5439929v	131	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	18	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1vt21p3wgp1yc2eidkuoky7220:3cwbwb7836n6j	41	Trøndelag politidistrikt
+cx:hxnsg4sjyytofy50:inbazx51viym	192	mobil
+cx:32ob2palmoj7m3jlre1vsqbopz:31nacheltaswg	38	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:igyrw9kqnu5jjyd2:vs2pdwgvvgq4	55	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	8	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:i1t4gm1z9rtpykt7:rk9kmkuu5igf	160	Hybridbil,Elbil
+cx:i8w1zmome1ylpr49:3rwkdnluu39hy	33	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	43	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1343562653128429269256:1wz752ffi1771	10	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:2twqn8prqcw9iw0d3vwg251jf:36jt5h8fdb249	73	Hybridbil,Elbil
+cx:1wm6lc6nifwgc1ql0t8mq56h58:2jj6bqkfk52nf	95	Rema,Dagligvare,Økonomi
+cx:i730lmmklkq6ql1k:2r2y02wtrotaw	68	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijxf1puc4p839mds:3nualgjzva4gc	86	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:io6ffhqb7oejs6n3:11i8rxhke3u5o	1	Rema,Dagligvare,Økonomi
+cx:ilatxi5rp1yefply:1r3ttrtympd22	106	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijoueasgl05vm6cj:3ajc2pbc1ivfi	115	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:i8yn4prm4wghg0vj:284j5kgti8389	91	Trondheim kino,Kongens Nei,kimen kino
+cx:mnsozob4er2ri37v9fg7l8kx:2lnagzcn0x62p	68	Vassfjellet,Innbrudd
+cx:i16lff77pe5hh5x0:89kp9vl63i9m	528	Rema,Dagligvare,Økonomi
+cx:ii5wqql3tsnkrjow:18gihegs51fad	242	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3bqckvglpns0821uushv269auj:q8h30zm37cr5	199	Rema,Dagligvare,Økonomi
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	37	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	28	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:i1m2e5xhdf0k1n8e:17mccp98teuwq	31	Hund,Ulv,Verdal
+cx:idxak83fffljc22a:1lqrleqfdwaoi	86	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ic9k3drbn5hhbckk:xhe2ipn7thnm	120	Hund,Ulv,Verdal
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	75	mobil
+cx:ikpdnc6cx2me5iwj:1vl74dvxfj61k	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	92	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3lh2iwctfw1231fq1ncr76ckr3:gaed0s5u6ps	84	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:inhe7vukii22rdhz:28g4fu6ulwy1f	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1t0yzs28rom2t19mn72cp088g7:1bxg4djlaseh	74	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijosrd7mosowrrin:xfpozpti043j	47	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1amb4wtj013rr1cwj1kqwc4xrv:1lbu5eyhkdku0	49	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:mr4wc7nwqlme2emjy1dudxa91:1eno25107x9i2	109	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i1t4gamy7grhuzhd:3lkub2gn4ibac	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:25p5t9q6q87c22furp19mlz98b:g9k65oq8rs3o	85	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ilrps8bwuynv6k8b:22w0q3vipe9lg	51	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:21d26jmgrx8l62z89wk2kmlydv:1wi52ge163p5t	108	Hund,Ulv,Verdal
+cx:2fhvzkgdusu9725td1r6tocoep:jrcf2c4n9agv	64	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:igyrw9kqnu5jjyd2:vs2pdwgvvgq4	6	Trøndelag politidistrikt
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	19	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inlxd3swh9rxgy18:5afhhw3bvjgp	40	Hybridbil,Elbil
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	2	Rema,Dagligvare,Økonomi
+cx:2fi1ntt7jeo7n1cjwyui9plgmn:3chc6mgm418a8	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ia8dj63xcu9wpcmg:3lrcyfg7vr9qs	49	Rema,Dagligvare,Økonomi
+cx:ijyc7oejkp04yjyh:3f3vxxa7xy8u	119	Hund,Ulv,Verdal
+cx:ijep25nkd7itprbt:3uobjxcc1eysw	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	60	Hund,Ulv,Verdal
+cx:ujk1vr585hq3884dtz97pqs7:s4fh2i2v7h3l	52	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:11mlc1xkmco4i2bw6l3go9adm2:70up2wmiw2oq	32	Hybridbil,Elbil
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	88	Trøndelag politidistrikt
+cx:ilb7clfwmygv0oj3:118c3p5upknc8	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3m0jaeu3wxtbb3l2v321ro174h:201hc7apjig6m	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2twqn8prqcw9iw0d3vwg251jf:36jt5h8fdb249	152	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i730lmmklkq6ql1k:2r2y02wtrotaw	27	Trøndelag politidistrikt
+cx:2yxuc0zeq47dh33j297d44e329:17sof6nmlakt5	36	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:mnsozob4er2ri37v9fg7l8kx:2lnagzcn0x62p	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ihklombtle3y07gx:3q0nqogzb0sta	50	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i1t4gamy7grhuzhd:3lkub2gn4ibac	38	Hybridbil,Elbil
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	149	Vassfjellet,Innbrudd
+cx:ijosrd7mosowrrin:xfpozpti043j	78	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ijtjdxpz93t5f8m5:2iz9n4nuh22ky	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:bp6z5c1hvnyr2x0skt1sxlh6c:16n9771coajqt	140	Hybridbil,Elbil
+cx:m50dpi4whcdp3shek7fyefj8f:3018oi0cc2ruc	359	Trøndelag politidistrikt
+cx:3fjx3k6a1nkwc290gomyz1mqmm:18h96zd873dvo	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilgrxk5m62fx9qor:1yxphlervi6sb	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3m0jaeu3wxtbb3l2v321ro174h:201hc7apjig6m	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3810dwwu80yre1ucn64o67tdu9:2pamvywvjxwoa	33	mobil
+cx:i6jifu6vvwbhynto:1dauc5439929v	60	Hund,Ulv,Verdal
+cx:bxc3ohmhq3wx2bsh85msv5mbq:rlzbiogjm7xn	10	Trening,Overvekt,Næringsmiddelindustrien
+cx:inlxd3swh9rxgy18:5afhhw3bvjgp	216	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:inkdbu74kyi5jyuk:1vthzvjeyvhtf	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ia8dj63xcu9wpcmg:3lrcyfg7vr9qs	36	Uno-X,Odd Reitan,Reitangruppen,bensinstasjon
+cx:hz1329hwkhz8vx3z:2tdu69muanzin	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2th9t1trz3lww109rgixqbvjuk:kk6f0yxsbqvq	232	Trening,Overvekt,Næringsmiddelindustrien
+cx:mnsozob4er2ri37v9fg7l8kx:2lnagzcn0x62p	16	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	38	Trøndelag politidistrikt
+cx:ino6awjpz3n0fw9e:7e5kgy7siasc	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ru7nmzii37761x1uop9rklkib:3r1l57j1rupj	19	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:idxak83fffljc22a:1lqrleqfdwaoi	76	Tour de ski,Ski,Charlotte Kalla
+cx:1wm6lc6nifwgc1ql0t8mq56h58:2jj6bqkfk52nf	63	Vassfjellet,Innbrudd
+cx:i52bi7a02g2ggxbr:16ylwfj7qb9i	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijtjdxpz93t5f8m5:2iz9n4nuh22ky	16	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	268	Vassfjellet,Innbrudd
+cx:inhe7vukii22rdhz:28g4fu6ulwy1f	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:41ppov93kctl2mhp1ju7anwm3:1fmctnfn950lj	36	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ii7n2nxlqvn22jn1:2npozzgvbhx2q	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilatxi5rp1yefply:1r3ttrtympd22	140	Trøndelag politidistrikt
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	110	Tour de ski,Ski,Petter Northug,Martin Johnsrud Sundby
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	116	Ulv,regjeringen,Vidar Helgesen
+cx:ht4l0ls836pw5npw:rtq94tve8xgb	29	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i4ufsc1x16td3dc1:1xzo8l0r93nfb	279	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	6	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:lvslr6xvhq2q3gcw3x8cbcx53:2lds2ogawlg6j	89	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ru7nmzii37761x1uop9rklkib:3r1l57j1rupj	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2yxuc0zeq47dh33j297d44e329:17sof6nmlakt5	302	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:19cc3kxo3omn71reahcqvjv2ei:xthgc5tpng9s	171	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:imw4tlcmxo81l6s0:1sfeycokbx92a	45	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:25p5t9q6q87c22furp19mlz98b:g9k65oq8rs3o	12	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ilrps8bwuynv6k8b:22w0q3vipe9lg	151	CES-messen,Teknologi,Samsung,TV
+cx:3ha45z0p5l7yo22mm4h7amaus8:2jxx7dskuf5sr	46	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	1	Hund,Ulv,Verdal
+cx:ii7n2nxlqvn22jn1:2npozzgvbhx2q	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ia8dj63xcu9wpcmg:3lrcyfg7vr9qs	35	Rema,Dagligvare,Økonomi
+cx:mnsozob4er2ri37v9fg7l8kx:2lnagzcn0x62p	206	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hz1329hwkhz8vx3z:2tdu69muanzin	95	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ru7nmzii37761x1uop9rklkib:3r1l57j1rupj	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ic9k3drbn5hhbckk:xhe2ipn7thnm	121	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:ru7nmzii37761x1uop9rklkib:3r1l57j1rupj	19	Folk,Kongens fortjenstmedalje,alkohol,Kirken,Fossegrenda
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	1	debatt,ordet fritt,Senterpartiet,pelsdyrhold,kristendom,oljeindustrien
+cx:ino6awjpz3n0fw9e:7e5kgy7siasc	58	Trøndelag politidistrikt
+cx:i6jifu6vvwbhynto:1dauc5439929v	79	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:41ppov93kctl2mhp1ju7anwm3:1fmctnfn950lj	103	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:1v84v1deird553tfu2zdcywm52:3117x4fyn3jvn	16	Hybridbil,Elbil
+cx:2ek7z94erj77b2ef3b0id7podb:2ua9k3yxbkg7p	29	Hund,Ulv,Verdal
+cx:ie1n3hhosqmji1ta:17j277qsbt6rj	118	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijosrd7mosowrrin:xfpozpti043j	13	E39,Vegamot AS,Øysand,Thamshamn
+cx:ilgrxk5m62fx9qor:1yxphlervi6sb	136	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i12q65w4lsl41l3k:1an3hm3gba13u	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:373kh1pm9636g2z6hx00wekbi6:3g62kmpu2owvl	3	Vassfjellet,Innbrudd
+cx:ijoueasgl05vm6cj:3ajc2pbc1ivfi	71	Trening,Overvekt,Næringsmiddelindustrien
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	76	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:1wm6lc6nifwgc1ql0t8mq56h58:2jj6bqkfk52nf	147	Opplysningsrådet for veitrafikken,plug in-hybrid,Elbiler,Mitsubishi Outlander PHEV
+cx:13888468618221267145530:1424uodcnfrj5	109	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	44	Trøndelag politidistrikt
+cx:3bhh41edldofg3squ2aimu72xw:12tsf684vzbv9	38	Hund,Ulv,Verdal
+cx:inptkn08jxjfutvq:279csbxdumi96	60	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijqvkbdxlrf249sr:2q4icaxnewann	13	CES-messen,Teknologi,Samsung,TV
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	68	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ijpuxheivnwma1vv:1szoqq13kohm5	107	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ru7nmzii37761x1uop9rklkib:3r1l57j1rupj	38	Trøndelag politidistrikt
+cx:3dfocqt6afdy11ggt0qfp88z4y:1mbpv1m922y0n	73	Hund,Ulv,Verdal
+cx:13542951325601445578955:mtzdxr834n5f	39	Hund,Ulv,Verdal
+cx:idxak83fffljc22a:1lqrleqfdwaoi	95	Vassfjellet,Innbrudd
+cx:2fi1ntt7jeo7n1cjwyui9plgmn:3chc6mgm418a8	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1hypt7z615wep2ck6csrtcfj2u:15mu9kngkdymb	67	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:3ha45z0p5l7yo22mm4h7amaus8:2jxx7dskuf5sr	29	Vassfjellet,Innbrudd
+cx:14o5m6u8pxp2ls4k1j0w3vamn:a63xe6szo5cx	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1pii188w6tyne131i1dcgml9gh:2fm1np380l6cg	20	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:21d26jmgrx8l62z89wk2kmlydv:1wi52ge163p5t	9	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1ovqbhmks38191om474zeper2l:ku37b73kq4s2	100	Vassfjellet,Innbrudd
+cx:ilntk3tsfzd3g6p4:2fsgoa15v1dv0	122	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2ek7z94erj77b2ef3b0id7podb:2ua9k3yxbkg7p	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2owstpryg96sg4144x70rt91u:1ynvfice0hl9l	39	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:io6ffhqb7oejs6n3:11i8rxhke3u5o	34	Trøndelag politidistrikt
+cx:igig7etni94zfjg5:3khgz5to732xc	147	Hund,Ulv,Verdal
+cx:2ek7z94erj77b2ef3b0id7podb:2ua9k3yxbkg7p	42	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:bxc3ohmhq3wx2bsh85msv5mbq:rlzbiogjm7xn	54	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijosrd7mosowrrin:xfpozpti043j	97	Vassfjellet,Innbrudd
+cx:ijqvkbdxlrf249sr:2q4icaxnewann	22	CES-messen,Teknologi,Samsung,TV
+cx:hyel6aaheoky9arz:bt56grs0xnyx	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:y59y853q1amo3am73byk7angz:1ugpwe02cp5kx	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i60aq37apy9ctgjl:25pprs9ilf7n7	184	mobil
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	79	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ifmiihjndkj5da6j:3z7aju5l5hl5	9	Hund,Ulv,Verdal
+cx:hxi3m3vcq5byh4jq:29xfm2uvyjakc	272	Hybridbil,Elbil
+cx:i1m2e5xhdf0k1n8e:17mccp98teuwq	76	Vassfjellet,Innbrudd
+cx:13542951325601445578955:mtzdxr834n5f	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:im33cr5t9vh4ylwe:2y87w442pc2k6	1	Rasisme,Paris Saint-Germain,Chelsea FC ,The Guardian,Paris,Supporter
+cx:1vl9zqcfvji9g3rj2nu2gua66c:2af6tnos4fqd3	20	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:1lw9pdevm4qjq25xuak61i7wwc:3qquthuk07jmv	16	Hund,Ulv,Verdal
+cx:14o5m6u8pxp2ls4k1j0w3vamn:a63xe6szo5cx	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:igfvw3ikvep23fih87kiyyh1j:1ncbmglhnywhp	45	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:bp6z5c1hvnyr2x0skt1sxlh6c:16n9771coajqt	13	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2twqn8prqcw9iw0d3vwg251jf:36jt5h8fdb249	89	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:i6jifu6vvwbhynto:1dauc5439929v	63	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	14	Hopp
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	29	NTNU,NTNU campus,Trondheim kommune,Sivert Bjørnstad
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	9	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	92	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	86	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1pii188w6tyne131i1dcgml9gh:2fm1np380l6cg	23	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:3vd5q2xmlvrbq2p74t538l384n:186xufdg1u89y	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	66	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	9	Vassfjellet,Innbrudd
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	50	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1bpp26qh05yr6ed4pmqivgj0:3292zpy3f9zcd	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1vl9zqcfvji9g3rj2nu2gua66c:2af6tnos4fqd3	224	Vassfjellet,Innbrudd
+cx:iehjgxst7tnv9hju:1eptij5wyff4w	9	Hund,Ulv,Verdal
+cx:inptkn08jxjfutvq:279csbxdumi96	35	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2owstpryg96sg4144x70rt91u:1ynvfice0hl9l	31	Trøndelag politidistrikt
+cx:bp6z5c1hvnyr2x0skt1sxlh6c:16n9771coajqt	68	Trening,Overvekt,Næringsmiddelindustrien
+cx:2ek7z94erj77b2ef3b0id7podb:2ua9k3yxbkg7p	15	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:27ofatp79heca23wskvgezuiy3:3cuvmupll919y	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	126	Stig Inge Bjørnebye,Rosenborg BK
+cx:15sylclq0a9u73fsuex3bkcvgn:2fwylx43uwk0v	13	Hund,Ulv,Verdal
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	12	Vassfjellet,Innbrudd
+cx:ino6awjpz3n0fw9e:7e5kgy7siasc	56	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13230374570232135078687:3ng976ttdk2la	87	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:2da84so2lu1rn1izbab09mma7f:1li28l1abju35	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:x4o8bh090vtc1fjvi0u4zy73r:3i66487gn0a3n	39	Ukeadressa,Munkegata,før og nå
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	13	Tour de ski,Ski,Petter Northug,Martin Johnsrud Sundby
+cx:2yufgbhuaegmu1bla0uwit8lui:3f3kj952kubst	100	Hund,Ulv,Verdal
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	49	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	227	Vassfjellet,Innbrudd
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	86	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:1hypt7z615wep2ck6csrtcfj2u:15mu9kngkdymb	10	Hund,Ulv,Verdal
+cx:27ofatp79heca23wskvgezuiy3:3cuvmupll919y	89	Vassfjellet,Innbrudd
+cx:1bpp26qh05yr6ed4pmqivgj0:3292zpy3f9zcd	12	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2da84so2lu1rn1izbab09mma7f:1li28l1abju35	38	Hund,Ulv,Verdal
+cx:ijyc7oejkp04yjyh:3f3vxxa7xy8u	87	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ijehno0p5wwyacms:3oqly6jk82ac5	1	Uno-X,Odd Reitan,Reitangruppen,bensinstasjon
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	146	Trøndelag politidistrikt
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	183	Norsk Tipping,Tipping,John Carew,Lotteri- og stiftelsestilsynet
+cx:igfvw3ikvep23fih87kiyyh1j:1ncbmglhnywhp	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:15sylclq0a9u73fsuex3bkcvgn:2fwylx43uwk0v	34	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13549043456361164866217:1eqxchgq09hlt	116	Hund,Ulv,Verdal
+cx:ijehno0p5wwyacms:3oqly6jk82ac5	13	Uno-X,Odd Reitan,Reitangruppen,bensinstasjon
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	94	Filmanmeldelser,Film,India,Tore Strømøy
+cx:oiteq95422abb4kkk7xmpbpo:3a9yqq0bst2la	50	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:39vahcd7qly7e1zc8qc9wnm33z:17r5mbng5iodx	4	Hund,Ulv,Verdal
+cx:ii5wqql3tsnkrjow:18gihegs51fad	375	Ulv,regjeringen,Vidar Helgesen
+cx:1hypt7z615wep2ck6csrtcfj2u:15mu9kngkdymb	206	Trøndelag politidistrikt
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	16	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i3cx3zvikpge6o3b:10ftybmarytvf	74	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	41	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1373307815690944046211:2jrrsfo7t8ny4	8	Hund,Ulv,Verdal
+cx:i6jifu6vvwbhynto:1dauc5439929v	3	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:igfvw3ikvep23fih87kiyyh1j:1ncbmglhnywhp	67	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i6jifu6vvwbhynto:1dauc5439929v	15	Hund,Ulv,Verdal
+cx:iehjgxst7tnv9hju:1eptij5wyff4w	313	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijpuxheivnwma1vv:1szoqq13kohm5	353	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:13293778384301207949948:3nj2a3png4frn	114	Ulv,regjeringen,Vidar Helgesen
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	69	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iehbk5kiehv57o82:3rh910bbwo2tz	66	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13300999803271088401115:e99xgu77rwo8	16	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3810dwwu80yre1ucn64o67tdu9:2pamvywvjxwoa	87	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilatxi5rp1yefply:1r3ttrtympd22	145	Rema,mat,Reitangruppen
+cx:1ovqbhmks38191om474zeper2l:ku37b73kq4s2	7	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:39vahcd7qly7e1zc8qc9wnm33z:17r5mbng5iodx	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iap81p7ivwt3l0kp:3e6pko9vlyqmn	129	Vassfjellet,Innbrudd
+cx:io6ffhqb7oejs6n3:11i8rxhke3u5o	86	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:i6jifu6vvwbhynto:1dauc5439929v	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	372	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	9	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ic9k3drbn5hhbckk:xhe2ipn7thnm	37	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:113trbdawm56xsrm86pxjp0ut:nq2cqjk8nul4	30	Hund,Ulv,Verdal
+cx:13888468618221267145530:1424uodcnfrj5	68	Hopp
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3dfocqt6afdy11ggt0qfp88z4y:1mbpv1m922y0n	13	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:14a8pe9c8tvkx2tg6ijsc5w7xo:3geswbe1nzrvd	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ij5zyscpc03f3vo7:2izcbuiqwv8dj	90	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	50	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iamp7rjpb42i3lov:2bjofwyrvrbax	239	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	3	Hund,Ulv,Verdal
+cx:invucb84gy915lrw:t7kczdjc9mlu	56	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hyaf4p5xvk8z693u:2vsraaldi3ds0	436	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:oiteq95422abb4kkk7xmpbpo:3a9yqq0bst2la	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	40	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2da84so2lu1rn1izbab09mma7f:1li28l1abju35	79	Vassfjellet,Innbrudd
+cx:1373307815690944046211:2jrrsfo7t8ny4	139	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:13300999803271088401115:e99xgu77rwo8	41	CES-messen,Teknologi,Samsung,TV
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	47	Trening,Overvekt,Næringsmiddelindustrien
+cx:oiteq95422abb4kkk7xmpbpo:3a9yqq0bst2la	101	Trøndelag politidistrikt
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	108	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	16	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ijvsp5lb5xytj8aw:1ppyu2mwk28jv	47	været,nedbør,storm,nina,ivar,hilde,frida,orkan
+cx:13656793751451533859440:3g50mvt082ebw	90	Hund,Ulv,Verdal
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	260	Ulv,regjeringen,Vidar Helgesen
+cx:igig7etni94zfjg5:3khgz5to732xc	83	Vassfjellet,Innbrudd
+cx:27ofatp79heca23wskvgezuiy3:3cuvmupll919y	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i8j2lrn5vy985fty:1h5lbk8nlo8f6	7	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:igfvw3ikvep23fih87kiyyh1j:1ncbmglhnywhp	17	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1389021601722911611812:1fg8slrlwuzng	38	Hund,Ulv,Verdal
+cx:2i43axh9flmxy3osgsofert9yh:1d6r5aunr87gf	168	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	129	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3c1dl7ggc1xy62tr83ae4zhvut:3gssquftab2c4	90	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:hzx2pn6j7vhtjyng:sckfhjlv4pdz	75	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2yufgbhuaegmu1bla0uwit8lui:3f3kj952kubst	100	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	6	Tour de ski,Ski,Petter Northug,Martin Johnsrud Sundby
+cx:imcc99aj6kjfeew1:1rpb7v3oiqs4o	27	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:24l1q4lmosfig10fmtxnakh0tz:2740peun03lks	6	Hund,Ulv,Verdal
+cx:ijyc7oejkp04yjyh:3f3vxxa7xy8u	21	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	195	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:igfvw3ikvep23fih87kiyyh1j:1ncbmglhnywhp	1	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ig126rpcqudxbgg6:108wpigacb7v7	1	Hund,Ulv,Verdal
+cx:i61cizsggatqgtwx:3a3kwdlwghnlh	87	Hund,Ulv,Verdal
+cx:ig126rpcqudxbgg6:108wpigacb7v7	44	Vassfjellet,Innbrudd
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	95	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:inaftguyl037i1fa:3946mj50arg0c	85	Vassfjellet,Innbrudd
+cx:kbkjtef1dmin2b5ed3frqzush:2ajpcc89sn9q8	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	28	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ht4l0ls836pw5npw:rtq94tve8xgb	126	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i8j2lrn5vy985fty:1h5lbk8nlo8f6	54	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:hszudrkndamgjmck:1rj09v81sauzv	71	Hund,Ulv,Verdal
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13888468618221267145530:1424uodcnfrj5	171	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ij16aywx8ih5h1z5:339n8jgkyt4xa	366	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:24l1q4lmosfig10fmtxnakh0tz:2740peun03lks	109	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	45	Norsk Tipping,Tipping,John Carew,Lotteri- og stiftelsestilsynet
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	35	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:13549043456361164866217:1eqxchgq09hlt	190	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	36	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	48	fotball,rbk,rosenborg,tippeligaen,premier league,champions league,landslaget,iversen,eggen,mini,ivar koteng
+cx:1371407323707628343591:3792vi84kak09	59	Hund,Ulv,Verdal
+cx:m50dpi4whcdp3shek7fyefj8f:3018oi0cc2ruc	2	kamera, webkamera, webcamera, trondheim
+cx:iap81p7ivwt3l0kp:3e6pko9vlyqmn	25	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:go9w80h9xc9v2dotvk0abn3z4:3dac0xuqqca3u	194	Hybridbil,Elbil
+cx:ik7rwnd93plt323pgxf0w32nr:1nk1yqgxpj7qj	53	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	55	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:imcc99aj6kjfeew1:1rpb7v3oiqs4o	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3w23j5v38rdz13kmo6fjsnpguf:3rprfgszsr19u	78	Hund,Ulv,Verdal
+cx:ibb7ns9j6ejd46rh:8ms7yxl8hp42	35	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	56	Hund,Ulv,Verdal
+cx:oiteq95422abb4kkk7xmpbpo:3a9yqq0bst2la	1	Trøndelag politidistrikt
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	6	Opplysningsrådet for veitrafikken,plug in-hybrid,Elbiler,Mitsubishi Outlander PHEV
+cx:26vse4swvvu792niyvbir8i8h0:s5cvo02efxv4	10	Hund,Ulv,Verdal
+cx:oiteq95422abb4kkk7xmpbpo:3a9yqq0bst2la	93	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i60aq37apy9ctgjl:25pprs9ilf7n7	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2u53cot3x20gzgneg6xankf00:1nj57klgnqxbd	1	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:138511638880273359912:29vp714n9y26l	103	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:eanpmwlzxsmx2v4qqtbig9jve:1jbcncdckopp0	12	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iap81p7ivwt3l0kp:3e6pko9vlyqmn	6	Vassfjellet,Innbrudd
+cx:igig7etni94zfjg5:3khgz5to732xc	53	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:kbkjtef1dmin2b5ed3frqzush:2ajpcc89sn9q8	317	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ijpavrpps29wftns:24wwz71bd8rp7	375	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	25	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	1	Trøndelag politidistrikt
+cx:imcc99aj6kjfeew1:1rpb7v3oiqs4o	16	Hybridbil,Elbil
+cx:i8j2lrn5vy985fty:1h5lbk8nlo8f6	239	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1ehv6ywmgqt1w1ilykheiap8ce:1tldamw26el9w	241	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:inaftguyl037i1fa:3946mj50arg0c	109	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	61	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	56	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:y8nueno3rmvy16wrfzdnhwnp1:3uxew4shfgsqj	166	Hybridbil,Elbil
+cx:iap81p7ivwt3l0kp:3e6pko9vlyqmn	33	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:hyel6aaheoky9arz:bt56grs0xnyx	232	Tour de ski,Petter Northug,Langrenn,Martin Johnsrud Sundby
+cx:1373307815690944046211:2jrrsfo7t8ny4	111	Rema,Dagligvare,Økonomi
+cx:ibiz1cjypfr3nqtw:prgj9h9awxwx	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	5	Vassfjellet,Innbrudd
+cx:io1fnivxcgublkd6:1qdi846j4mcl9	8	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	217	Hybridbil,Elbil
+cx:ifa61e6grusoket6:3nbl45cgx3lz7	133	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	31	FC København,Ståle Solbakken,E-sport
+cx:i61cizsggatqgtwx:3a3kwdlwghnlh	132	Hybridbil,Elbil
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	100	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:mz1crlifzlxfzpp5v5tf9k6n:b3wv54pb6sdj	22	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:1ywdan2w0cnu0v2uxts07qya1:23amld4lvrwah	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	12	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:3qp3lweegzog32pf8bysvm0fon:52z5de1dnj1p	51	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:189liiwxb4wtz1ski4fky514vb:1hm5tmmbqitb6	336	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ibiz1cjypfr3nqtw:prgj9h9awxwx	101	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:3k50zl9syam5m2onyajfidhspz:1sbxazeiiyj2e	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13656793751451533859440:3g50mvt082ebw	60	Rema,mat,Reitangruppen
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	95	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	143	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1fv3boqg8kcz81xbozgiurgmsk:12anc9i00gg2z	106	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:iiovhll9byiuwg51:1fyk9f5bbvblm	80	Hund,Ulv,Verdal
+cx:il6mntctmctw24u1:11had28e5knkp	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iekx5uakutlc3kc3:1tvducxd2thbh	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	180	Ulv,regjeringen,Vidar Helgesen
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	76	Rema,Dagligvare,Økonomi
+cx:io1fnivxcgublkd6:1qdi846j4mcl9	10	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:igig7etni94zfjg5:3khgz5to732xc	45	Hybridbil,Elbil
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	88	Trøndelag politidistrikt
+cx:1364308033658461139577:35hrk4la7mjk4	1	Hund,Ulv,Verdal
+cx:ik7rwnd93plt323pgxf0w32nr:1nk1yqgxpj7qj	20	Trening,Overvekt,Næringsmiddelindustrien
+cx:2pnioagow1kp32rk0i7ar3uudg:ghvu9o54s6ql	43	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:indhlx0yc5gvemao:ivxsyc5sj331	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ht4l0ls836pw5npw:rtq94tve8xgb	174	Hybridbil,Elbil
+cx:ij8o2ug6tv40h59k:2tmfyeb3ti4a9	18	Vassfjellet,Innbrudd
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	93	Hund,Jakt,hundekjøring,Kjæledyr
+cx:2i43axh9flmxy3osgsofert9yh:1d6r5aunr87gf	157	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:iap81p7ivwt3l0kp:3e6pko9vlyqmn	40	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:icc9r518fl2mmcat:hmp1bc7o4cno	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1ywdan2w0cnu0v2uxts07qya1:23amld4lvrwah	171	Hybridbil,Elbil
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	65	TrønderTaxi,Norgestaxi,Nidaros Taxi,Christiania Taxi
+cx:ijzu445xscfn445b:2alo76o94g5ao	91	Hund,Ulv,Verdal
+cx:ictezv254tlkaky6:3225cbsombptr	54	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	67	Trening
+cx:ij8o2ug6tv40h59k:2tmfyeb3ti4a9	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iodtfyecpyus63uq:3qcmwd08tu4ln	185	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ikek52xjre9al34z:dv9r2qd77yvx	85	mobil
+cx:iekx5uakutlc3kc3:1tvducxd2thbh	78	Vassfjellet,Innbrudd
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	57	Kåre Ingebrigtsen,Rosenborg BK
+cx:ijyaac0mv2wvgke0:29hhlbx9b7fi9	30	Hund,Ulv,Verdal
+cx:yd9y3clo3dvx36wbzspwx1gvn:9mazr5qv5vre	67	Rema,Dagligvare,Økonomi
+cx:ijehno0p5wwyacms:3oqly6jk82ac5	35	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2ff3jg220x3s630xjbnaun16i2:2fon5wofzkf97	65	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	48	Norsk film,Action,Kino,Trondheim kino,NRK
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	225	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:1373307815690944046211:2jrrsfo7t8ny4	45	Trøndelag politidistrikt
+cx:hvkuenc0aio1q7op:2798gaaf8ybrp	31	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	219	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:k4vhp4d53ih8f6zz1qlpjm1i:22kc96sny1ms6	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ik7rwnd93plt323pgxf0w32nr:1nk1yqgxpj7qj	31	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:icc9r518fl2mmcat:hmp1bc7o4cno	1	Trening,Overvekt,Næringsmiddelindustrien
+cx:ingh4606wjhc1rne:25jh3o05e8ipp	95	Hund,Ulv,Verdal
+cx:iiovhll9byiuwg51:1fyk9f5bbvblm	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ictezv254tlkaky6:3225cbsombptr	35	Hund,Ulv,Verdal
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	23	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ilatxi5rp1yefply:1r3ttrtympd22	1	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:2yoypezxan5xy1qrwmifsk2iqe:23i2d478h82dd	63	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijehno0p5wwyacms:3oqly6jk82ac5	105	Rema,Dagligvare,Økonomi
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	20	Hybridbil,Elbil
+cx:in02ptpcppvc7vj1:360gxis9ea6jv	17	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1fv3boqg8kcz81xbozgiurgmsk:12anc9i00gg2z	212	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	117	Hopp
+cx:2pnioagow1kp32rk0i7ar3uudg:ghvu9o54s6ql	22	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13549043456361164866217:1eqxchgq09hlt	149	Rema,Dagligvare,Økonomi
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	95	Trening,Overvekt,Næringsmiddelindustrien
+cx:ifr9ihhz5jwmw83p:1muolfaoaucw4	128	Hund,Ulv,Verdal
+cx:3gqlb90mn0w8r1rkiwlz9196z5:2hmnrh04loaz5	27	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ide2s8pxc9posk38:301wlqvpmukzh	3	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:ijpuxheivnwma1vv:1szoqq13kohm5	16	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1t9k82wwis4tx1vimftjzo360u:1qd643dap6d4f	2	Lillestrøm SK,Rosenborg BK,IFK Göteborg
+cx:2ncyv10mj6qizo7j17aj7fg1l:2o19bx6xj27r8	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iadpvqq74ymaj3oo:1tc9kezdd312n	80	Vassfjellet,Innbrudd
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	63	Film,Midtnorsk Filmsenter,Kosmorama
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	270	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:hvkuenc0aio1q7op:2798gaaf8ybrp	24	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ilatxi5rp1yefply:1r3ttrtympd22	146	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2zotwzx1ozlso7u2k3buhevfn:1fthekmfjocf3	29	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	88	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:i24wd6jyna6q2ub0:r443v29do19r	70	Hund,Ulv,Verdal
+cx:1s26paylr18zk34g34x68r0v6t:js1slri4q112	120	Hund,Ulv,Verdal
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	37	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ijzu445xscfn445b:2alo76o94g5ao	27	Trening,Overvekt,Næringsmiddelindustrien
+cx:2ff3jg220x3s630xjbnaun16i2:2fon5wofzkf97	27	Trøndelag politidistrikt
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	14	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:igl3jpnidapu7kh9:1twfuuhxf433p	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3gqlb90mn0w8r1rkiwlz9196z5:2hmnrh04loaz5	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2ncyv10mj6qizo7j17aj7fg1l:2o19bx6xj27r8	22	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ii5wqql3tsnkrjow:18gihegs51fad	6	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13712458850331778800689:9fmve56ay7dy	265	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:iiovhll9byiuwg51:1fyk9f5bbvblm	361	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i75fbs7puqynpk3abwka84uy:3hbpzwr81ub19	24	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hvkuenc0aio1q7op:2798gaaf8ybrp	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1gsmwq5dwizvov0ebo1ygcs36:2lek9127g6cnt	47	Hund,Ulv,Verdal
+cx:ilal752w8att38qn:1e3lsyfe6ay3d	25	Statens vegvesen,E6,Malvik
+cx:ikvd92ba16sag5c4:3ex9ycq7ae471	13	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	44	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1pii188w6tyne131i1dcgml9gh:2fm1np380l6cg	270	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	86	Tesla,Teknologi
+cx:ik5sfc3rsmo1038y:z6r0lkkunel5	165	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ijpuxheivnwma1vv:1szoqq13kohm5	7	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2i43axh9flmxy3osgsofert9yh:1d6r5aunr87gf	163	Vassfjellet,Innbrudd
+cx:i8ogqwx8egm28zlh:2geaaqg8r0br5	41	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2pnioagow1kp32rk0i7ar3uudg:ghvu9o54s6ql	20	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i75fbs7puqynpk3abwka84uy:3hbpzwr81ub19	29	Hund,Ulv,Verdal
+cx:ikvd92ba16sag5c4:3ex9ycq7ae471	58	Hund,Ulv,Verdal
+cx:13422067736601326980569:x8ewdl1q3kyp	71	Hund,Ulv,Verdal
+cx:1ehv6ywmgqt1w1ilykheiap8ce:1tldamw26el9w	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	49	Trening,Overvekt,Næringsmiddelindustrien
+cx:yd9y3clo3dvx36wbzspwx1gvn:9mazr5qv5vre	2	Rema,Dagligvare,Økonomi
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	107	Boligmarkedet,Bolig,Boligbygging,Økonomi,Næringsliv
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	109	gründer
+cx:1389133595889845610747:3k5o0l8wfbbtu	1	Hund,Ulv,Verdal
+cx:13888468618221267145530:1424uodcnfrj5	182	Vassfjellet,Innbrudd
+cx:ictezv254tlkaky6:3225cbsombptr	28	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:yd9y3clo3dvx36wbzspwx1gvn:9mazr5qv5vre	17	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:138244395781570638064:2695gdj3q50ec	239	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:in2tfxvn36yemdie:gyhk71m6pc81	32	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	71	Film,Midtnorsk Filmsenter,Kosmorama
+cx:1ehv6ywmgqt1w1ilykheiap8ce:1tldamw26el9w	41	Hund,Ulv,Verdal
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	260	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ijehno0p5wwyacms:3oqly6jk82ac5	98	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:i3arflpy1ee0dce1:3rexlstqbkdyn	22	Hund,Ulv,Verdal
+cx:i5uyulnt1mcebfqu:1tyyajt60zlck	38	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:iadpvqq74ymaj3oo:1tc9kezdd312n	35	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:mvcjo1n0gksx2pmvq35hk7e6i:g5r5u9h73a1x	26	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inuv9ch01nbq0qy3:25zt6205k477h	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hvkuenc0aio1q7op:2798gaaf8ybrp	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13656793751451533859440:3g50mvt082ebw	68	Folk,Kongens fortjenstmedalje,alkohol,Kirken,Fossegrenda
+cx:hyel6aaheoky9arz:bt56grs0xnyx	9	Eliteserien,Rosenborg BK,Fotball
+cx:3ktg5fk5donypzeex9am06hqo:3rp6955fb77x3	20	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:jzemnw805po81p0qgkjx0deum:1rhmc1lmt2a1z	14	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:ictezv254tlkaky6:3225cbsombptr	33	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:31ctsd6q0no411ea2vkd04o00a:ru8z1nrv19z6	46	Vassfjellet,Innbrudd
+cx:1389133595889845610747:3k5o0l8wfbbtu	54	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i75fbs7puqynpk3abwka84uy:3hbpzwr81ub19	6	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:ijpuxheivnwma1vv:1szoqq13kohm5	525	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:hyel6aaheoky9arz:bt56grs0xnyx	19	Molde,Brann,Sogndal,Kristiansund,Haugesund,Sarpsborg 08,Sandefjord,Odd,Sarpsborg,Rosenborg BK,Tromsø
+cx:inuv9ch01nbq0qy3:25zt6205k477h	7	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:944s21ck1t0h20lov91zxsh9e:2ks7mqb444dez	22	Hund,Ulv,Verdal
+cx:in02ptpcppvc7vj1:360gxis9ea6jv	45	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i8j2lrn5vy985fty:1h5lbk8nlo8f6	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1fkssvjvijnpu3rpm52a29dkcx:1jfj9yjfa7izm	65	Hund,Ulv,Verdal
+cx:i75fbs7puqynpk3abwka84uy:3hbpzwr81ub19	54	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:112rmw1l7p6ao31kt3202joaxn:11f1yq7ai7pp	55	Hybridbil,Elbil
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	224	Trening,Overvekt,Næringsmiddelindustrien
+cx:ii6dkoy96wf01j9v:20osn3umekk83	61	Hund,Ulv,Verdal
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	73	Hopp
+cx:ikvd92ba16sag5c4:3ex9ycq7ae471	33	Vassfjellet,Innbrudd
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:jzemnw805po81p0qgkjx0deum:1rhmc1lmt2a1z	116	Trondheim byarkiv
+cx:kbkjtef1dmin2b5ed3frqzush:2ajpcc89sn9q8	15	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:iadpvqq74ymaj3oo:1tc9kezdd312n	30	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2d185k0gm08n6hwjnf0p6xlrf:3l96n1fe3va5r	16	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:mz1crlifzlxfzpp5v5tf9k6n:b3wv54pb6sdj	141	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:1gdxtp09mhsho1mzygl5dt8kxn:2q9zopyh29k2a	60	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:13422067736601326980569:x8ewdl1q3kyp	24	Hund,Ulv,Verdal
+cx:ilatxi5rp1yefply:1r3ttrtympd22	204	Politikk,Rune Olsø,Arbeiderpartiet,Pensjon
+cx:icc3sb7s9v91hnlh:1y1ll8ab7miha	45	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3joh74ps3hi0h1rxy8estg4zo4:g9u6h3lbafev	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	137	Norsk film,Action,Kino,Trondheim kino,NRK
+cx:3i46eyz75l2gb1jvnq0b23p2si:203ss8bm6o7e8	120	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:3pl5o421yumhod0ab4yak0mmn:1f3ofkkgkf7f1	76	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	92	Tour de ski,Russland,Therese Johaug,FIS
+cx:i55x83617p6ycwqq:5yfgbcenjl50	68	Hund,Ulv,Verdal
+cx:31ctsd6q0no411ea2vkd04o00a:ru8z1nrv19z6	100	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:ig1zh6lz2md204nx:3a7og4crsp2bs	103	Ulv,regjeringen,Vidar Helgesen
+cx:3joh74ps3hi0h1rxy8estg4zo4:g9u6h3lbafev	95	Vassfjellet,Innbrudd
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	140	Film,Midtnorsk Filmsenter,Kosmorama
+cx:13422067736601326980569:x8ewdl1q3kyp	90	Hund,verdens tøffeste hundeløp,tur
+cx:944s21ck1t0h20lov91zxsh9e:2ks7mqb444dez	88	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i75fbs7puqynpk3abwka84uy:3hbpzwr81ub19	1	Hopp
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	70	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hrt4z16i9s7kk6ov:31r3o3kopxjji	142	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ijpavrpps29wftns:24wwz71bd8rp7	40	Hopp,Farger,Daniel Andre Tande
+cx:ihhwyqziaa3wjmay:33j90sv429b5p	24	Lars Lian,solsiden,Torvet i Trondheim,Restauranter,Uteliv
+cx:2d185k0gm08n6hwjnf0p6xlrf:3l96n1fe3va5r	14	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:ijro9psuq837aad7:2le6r8ew3qh63	146	Hund,Ulv,Verdal
+cx:3qk3038o38vpt1lbk4jpntfbyj:1wqrq3pz2k0df	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:17msgnthl7ar22xcgtwqz01mmc:25qbashuxot8v	285	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ijonm3rdhc1kbr4w:31fcqj1pahumj	55	Hund,Ulv,Verdal
+cx:ii6dkoy96wf01j9v:20osn3umekk83	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:12yjxv8f2o3xo2s7u5shpzbdoz:30zks75tmon3z	286	Rema,Dagligvare,Økonomi
+cx:i6tw0t9gmw8bta7b:21d57qpf2ma9	80	Hopp
+cx:2z93loiuy9f0k413z23b8poby:25w4g1xzw764p	34	Vassfjellet,Innbrudd
+cx:1fkssvjvijnpu3rpm52a29dkcx:1jfj9yjfa7izm	91	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	151	CES-messen,Teknologi,Samsung,TV
+cx:3vefpcv9lcca71vvqm6l0mnynt:20yjdr1nyu7y3	26	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ik5sfc3rsmo1038y:z6r0lkkunel5	60	Hund,Ulv,Verdal
+cx:d67pw7gozln65zx95wffu882:lksb8f6deew8	30	Trøndelag politidistrikt
+cx:1gdxtp09mhsho1mzygl5dt8kxn:2q9zopyh29k2a	46	Trøndelag politidistrikt
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	21	Hopp,Farger,Daniel Andre Tande
+cx:ibt5fkn417asl9n5:rwogiv479yde	20	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:y8nueno3rmvy16wrfzdnhwnp1:3uxew4shfgsqj	164	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ii6dkoy96wf01j9v:20osn3umekk83	60	Trøndelag politidistrikt
+cx:3pl5o421yumhod0ab4yak0mmn:1f3ofkkgkf7f1	4	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:immibv4wqeyb2xt5:2xczdm49gm5kh	44	Hund,Ulv,Verdal
+cx:i3cx3zvikpge6o3b:10ftybmarytvf	278	Vassfjellet,Innbrudd
+cx:2z93loiuy9f0k413z23b8poby:25w4g1xzw764p	3	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:in6kmjalp6byw41d:1dwbvi7ggavd6	497	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:2i43axh9flmxy3osgsofert9yh:1d6r5aunr87gf	138	Rema,mat,Reitangruppen
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	2	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:hyaf4p5xvk8z693u:2vsraaldi3ds0	5	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2z93loiuy9f0k413z23b8poby:25w4g1xzw764p	46	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3vefpcv9lcca71vvqm6l0mnynt:20yjdr1nyu7y3	49	Vassfjellet,Innbrudd
+cx:232rplopng04msb5yf7q2pokr:2u2ksdz9dsaku	48	Tour de ski,Heidi Weng,Ingvild Flugstad Østberg
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	168	Tour de ski,Petter Northug,Langrenn,Martin Johnsrud Sundby
+cx:ijq7bzi52doqmjdf:3ug26x5rrjoeo	5	Hund,Ulv,Verdal
+cx:hxi3m3vcq5byh4jq:29xfm2uvyjakc	73	Rasisme,Paris Saint-Germain,Chelsea FC ,The Guardian,Paris,Supporter
+cx:ibt5fkn417asl9n5:rwogiv479yde	93	Vassfjellet,Innbrudd
+cx:13422067736601326980569:x8ewdl1q3kyp	6	Hund,Ulv,Verdal
+cx:3joh74ps3hi0h1rxy8estg4zo4:g9u6h3lbafev	1	kamskjelldykkerne,Politiet,arbeidsmiljø,Arbeidsulykke,Frøya
+cx:31ctsd6q0no411ea2vkd04o00a:ru8z1nrv19z6	67	Rema,mat,Reitangruppen
+cx:i11l2ak2d448lvak:5rpet6sszrbf	46	Trøndelag politidistrikt
+cx:ijpkh953364flzd1:1gfgsztcthz0o	97	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:13422067736601326980569:x8ewdl1q3kyp	92	Hund,verdens tøffeste hundeløp
+cx:1382423886369158902094:2uh0m9jyy6cbj	32	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:i55x83617p6ycwqq:5yfgbcenjl50	49	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	182	Ulv,regjeringen,Vidar Helgesen
+cx:iah6adn5npuh853s:ytftf83i5v3w	1	fotball,håndball,snowboard,ishockey,kombinert,skihopp,langrenn,kombinert
+cx:immibv4wqeyb2xt5:2xczdm49gm5kh	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13661051438771851474422:gxg5we7j5o8r	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:6mkk0zz4to7g2n0opqc2nvvuy:34oiy49czmdd1	20	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i45nr2u8lefgokyv:1hygd1xr8v3hw	56	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:imda6bv9gkn2v6df:zw5jmvrlx7p2	28	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	17	Film,Norsk film,Kosmorama,Vikingtida,Viking
+cx:ii6dkoy96wf01j9v:20osn3umekk83	263	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	132	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:1fkssvjvijnpu3rpm52a29dkcx:1jfj9yjfa7izm	221	Trøndelag politidistrikt
+cx:3vefpcv9lcca71vvqm6l0mnynt:20yjdr1nyu7y3	183	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:ils90jxh14m4strn:3f1medcfufnld	9	Hund,Ulv,Verdal
+cx:3p2m8pb8f2xqh3rkirnkleleo2:3ifz3jfiewpuj	26	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijq7bzi52doqmjdf:3ug26x5rrjoeo	22	Fotball 1. div,OBOS-ligaen,Rosenborg BK,Elverum,Bodø/Glimt
+cx:13661051438771851474422:gxg5we7j5o8r	59	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	22	Film,Midtnorsk Filmsenter,Kosmorama
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	64	E39,Vegamot AS,Øysand,Thamshamn
+cx:ikedcb0p8sirljmj:xru0bz72t9fy	46	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:944s21ck1t0h20lov91zxsh9e:2ks7mqb444dez	12	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:i11l2ak2d448lvak:5rpet6sszrbf	12	Trøndelag politidistrikt
+cx:ijro9psuq837aad7:2le6r8ew3qh63	48	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1ps18ahpdtdzr2h1c0h2aoiwf0:1a6a1w13l2s34	774	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:2j16hwgejapy5z6jmukpct8kj:3nufw7le9ggwn	146	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:6mkk0zz4to7g2n0opqc2nvvuy:34oiy49czmdd1	242	pluss,eadressa,ukeadressa,digitalt,arkiv,fordeler
+cx:i5ucawxibvd2ndgw:a4fnah9kqqzp	36	Hund,Ulv,Verdal
+cx:add3wz19u4351kehz3zs734d1:3og30kd6w20vo	55	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijou1ipp149vmsv1:ehjhnbzou8fb	46	Trøndelag politidistrikt
+cx:iiaohsja9itlbscr:5xpvfgrh3adt	96	Hund,Ulv,Verdal
+cx:imiybpgcfpq4vwyw:154m3eag8aib7	66	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:25jy83u6psjvda7tjltx75xmr:5us4168a21i7	112	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	1	Tesla,Teknologi
+cx:imnogvmb4bc4i7gu:2uxlw12gg7lhj	6	CES-messen,Teknologi,Samsung,TV
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	36	Norsk film,Action,Kino,Trondheim kino,NRK
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	1	Hybridbil,Elbil
+cx:31ctsd6q0no411ea2vkd04o00a:ru8z1nrv19z6	1	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:3qk3038o38vpt1lbk4jpntfbyj:1wqrq3pz2k0df	21	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:2q7tdc1w4tgb82fjheuusq89gu:dvfij8qos2j9	4	Hund,Ulv,Verdal
+cx:hydbri44fntgqjo0:1vfjfhizmb5uz	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ils90jxh14m4strn:3f1medcfufnld	24	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ingh4606wjhc1rne:25jh3o05e8ipp	347	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:immibv4wqeyb2xt5:2xczdm49gm5kh	89	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:1322250223926585169585:b5s85ujvzvmy	191	AtB,Busser,Båt,Hurtigbåten,Kollektivtrafikk
+cx:in02ptpcppvc7vj1:360gxis9ea6jv	67	Hund,Ulv,Verdal
+cx:2r1affqorc5rpg9dsz188sq9k:1y1knrn9ux4dt	151	Rema,Dagligvare,Økonomi
+cx:htc3b8wlcmdz53w0:2o9n04x2y9jp8	145	Stig Inge Bjørnebye,Rosenborg BK
+cx:idblkxvn3sy0ub9f:19otyu6juhma	8	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3qk3038o38vpt1lbk4jpntfbyj:1wqrq3pz2k0df	159	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:2blz5eucd5fdx2zvv7siwjcn6l:24pwfio2yjnym	57	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:13422067736601326980569:x8ewdl1q3kyp	3	Hund,Ulv,Verdal
+cx:ikuvvkm8bhrtooko:2wb819hwlpebb	578	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:3p2m8pb8f2xqh3rkirnkleleo2:3ifz3jfiewpuj	32	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:3jhmk8jcey1yt27t1tgf3phn64:10b239vo347sq	2	drivstoff,bensinstasjon
+cx:ijro9psuq837aad7:2le6r8ew3qh63	48	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	26	Film,Alexander Payne,Fosen,kultur,Kulturpolitikk
+cx:2dl6l6lgek5a2r2um4zjt267i:14jyj2bvoe6bc	95	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ikedcb0p8sirljmj:xru0bz72t9fy	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:302tzylrj7wpf3d7j6g3hro2x0:wsxwkpvhtn2z	1	Hund,Ulv,Verdal
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	125	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3jhmk8jcey1yt27t1tgf3phn64:10b239vo347sq	20	drivstoff,bensinstasjon
+cx:1khh0rmcgvgjg1dqv8qjusifla:2fg0n3kzq2mfr	37	Trening,Overvekt,Næringsmiddelindustrien
+cx:y8nueno3rmvy16wrfzdnhwnp1:3uxew4shfgsqj	16	E39,Vegamot AS,Øysand,Thamshamn
+cx:ils90jxh14m4strn:3f1medcfufnld	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:13661051438771851474422:gxg5we7j5o8r	105	Vassfjellet,Innbrudd
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	120	Trening,Overvekt,Næringsmiddelindustrien
+cx:add3wz19u4351kehz3zs734d1:3og30kd6w20vo	62	Hund,Ulv,Verdal
+cx:24chpha32ke2l3finapj4aa1fa:32kvn0l75jawk	9	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:y8nueno3rmvy16wrfzdnhwnp1:3uxew4shfgsqj	7	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	9	Norsk film,Action,Kino,Trondheim kino,NRK
+cx:3jhmk8jcey1yt27t1tgf3phn64:10b239vo347sq	2	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ikedcb0p8sirljmj:xru0bz72t9fy	3	Hund,Ulv,Verdal
+cx:imiybpgcfpq4vwyw:154m3eag8aib7	14	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ibt5fkn417asl9n5:rwogiv479yde	34	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	18	Rema,Dagligvare,Økonomi
+cx:ikd31hg7w06kg6y9:39g62kjdddjx2	18	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:2hyuqqmmwg6651vsxg5zj8o5yd:1qgoutcuewhpx	8	Hund,Ulv,Verdal
+cx:3jhmk8jcey1yt27t1tgf3phn64:10b239vo347sq	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	40	Erik Hamrén,Ole Gunnar Solskjær,Ståle Solbakken,Bob Bradley,Nils Johan Semb,Per-Mathias Høgmo,Premier League
+cx:114bcffl01k993m5rpp3k49h8g:1dyx2h54023l4	260	mobil
+cx:i11l2ak2d448lvak:5rpet6sszrbf	51	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inm3i7u32ubwr8x7:3n9e5lw0zwagd	11	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:19guxmsj74i9i1i3ym5oorolap:1g7xz8b1njncj	1	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1khh0rmcgvgjg1dqv8qjusifla:2fg0n3kzq2mfr	40	Trening,Overvekt,Næringsmiddelindustrien
+cx:3i46eyz75l2gb1jvnq0b23p2si:203ss8bm6o7e8	6	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	39	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:ijro9psuq837aad7:2le6r8ew3qh63	64	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1fq0p4aew9iphzbfys12j3m5b:3btjlpsgri76f	250	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:3i46eyz75l2gb1jvnq0b23p2si:203ss8bm6o7e8	115	CES-messen,Teknologi,Samsung,TV
+cx:ikek52xjre9al34z:dv9r2qd77yvx	40	Trondheim kino,Kongens Nei,kimen kino
+cx:13ox39m976ry72vpmffyjdunc9:4s5bw35vfhog	66	Hund,Ulv,Verdal
+cx:ilatxi5rp1yefply:1r3ttrtympd22	320	mobil
+cx:i3fxpqyxpsy9nty2:2lq35kgs7wtmk	3	Vassfjellet,Innbrudd
+cx:iaed51xop8sx12oy:3pcdsoowj75nl	60	Vassfjellet,Innbrudd
+cx:i7c2mpy8qzn2k11a:39wvr0gp5hkgn	70	Hund,Ulv,Verdal
+cx:3p2m8pb8f2xqh3rkirnkleleo2:3ifz3jfiewpuj	90	mobil
+cx:idblkxvn3sy0ub9f:19otyu6juhma	103	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:idoufcnnvune2hu6:3tfwi0qxlp1z1	28	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ij0gblpdsnlzs1bo:3aufsn5ro5u2f	92	Hund,Ulv,Verdal
+cx:hyfys5thd0kb8ynw:1jj52umppapjx	23	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:inm3i7u32ubwr8x7:3n9e5lw0zwagd	76	Hund,Ulv,Verdal
+cx:17msgnthl7ar22xcgtwqz01mmc:25qbashuxot8v	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:add3wz19u4351kehz3zs734d1:3og30kd6w20vo	114	Vassfjellet,Innbrudd
+cx:ibt5fkn417asl9n5:rwogiv479yde	130	Rema,mat,Reitangruppen
+cx:1gdxtp09mhsho1mzygl5dt8kxn:2q9zopyh29k2a	107	Tour de ski,Ski,Petter Northug,Finn Hågen Krogh
+cx:13881776644951451872793:13zpdto8rc091	61	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:i3fxpqyxpsy9nty2:2lq35kgs7wtmk	5	Vassfjellet,Innbrudd
+cx:2gli30nh6k5ldmbqa913zl64p:1zv4lwhwvv53f	10	Hund,Ulv,Verdal
+cx:i1nh7nuboyq02nd9:2vqrqng5zztsx	219	Vassfjellet,Innbrudd
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	4	elbil,Trondheim parkering,sissel trønsdal,Trondheim
+cx:id56v6rrop0ksav7:pti0k0ezh196	15	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:z6vn8hjigl2lpai71grwli5t:5c0tgvcxuhc4	7	Hund,Ulv,Verdal
+cx:17msgnthl7ar22xcgtwqz01mmc:25qbashuxot8v	75	Hund,Ulv,Verdal
+cx:2uc3qug6gogw03opbcced1bz9:nvvfx8qxmmru	39	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:1880svitnkuov3hv4fwrl8h2cy:284fwjqpl7o1b	11	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:ii2w0cv2fgwx75u3:1r59vzsvxmu7g	14	Hund,Ulv,Verdal
+cx:343rpmmhm5g8438wtvtelzd66b:fb0vo25nx6qp	93	Hund,Ulv,Verdal
+cx:1kx50au4fgk9b2uwd35gf6di1f:15ipg8knoobhf	32	Folk,Kongens fortjenstmedalje,alkohol,Kirken,Fossegrenda
+cx:i3cx3zvikpge6o3b:10ftybmarytvf	114	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:1khh0rmcgvgjg1dqv8qjusifla:2fg0n3kzq2mfr	72	økonomi,finans,aksjer,skatt,børs,økonominyheter
+cx:ikedcb0p8sirljmj:xru0bz72t9fy	47	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:2dl6l6lgek5a2r2um4zjt267i:14jyj2bvoe6bc	201	Hund,Ulv,Verdal
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	1	E39,Vegamot AS,Øysand,Thamshamn
+cx:13ox39m976ry72vpmffyjdunc9:4s5bw35vfhog	24	Hund,Ulv,Verdal
+cx:13661051438771851474422:gxg5we7j5o8r	47	Trøndelag politidistrikt
+cx:ijro9psuq837aad7:2le6r8ew3qh63	20	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:3qk3038o38vpt1lbk4jpntfbyj:1wqrq3pz2k0df	154	E39,Vegamot AS,Øysand,Thamshamn
+cx:id56v6rrop0ksav7:pti0k0ezh196	18	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:302tzylrj7wpf3d7j6g3hro2x0:wsxwkpvhtn2z	110	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:19guxmsj74i9i1i3ym5oorolap:1g7xz8b1njncj	220	Hybridbil,Elbil
+cx:igh15p7obihk6h1k:1eu865acab1rl	55	Hund,Ulv,Verdal
+cx:sip4ijxr5n7p12dgx5mgfymyt:bh5m2o9lka9f	9	Trening,Overvekt,Næringsmiddelindustrien
+cx:i0wjti0ntj5vz0yz:1t78kovv1hl0p	277	Kropp
+cx:1pii188w6tyne131i1dcgml9gh:2fm1np380l6cg	340	Trening,Overvekt,Næringsmiddelindustrien
+cx:3vefpcv9lcca71vvqm6l0mnynt:20yjdr1nyu7y3	94	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:39vahcd7qly7e1zc8qc9wnm33z:17r5mbng5iodx	10	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:ijro9psuq837aad7:2le6r8ew3qh63	85	utenriks,innenriks,trondheim,E6,midtbyen,bybrann,bilulykker
+cx:hxq0kjt63xq4b4i9:2z21bg3oc759f	109	NTNU,NTNU campus,Gunnar Bovim,Rita Ottervik,Trond Giske,Sivert Bjørnstad
+cx:ikwl1gleahzzm16l:3hync63y8y7sr	106	tog,NSB,Samferdsel,Reiseliv,debatt
+cx:z6vn8hjigl2lpai71grwli5t:5c0tgvcxuhc4	78	Stue,Trend,Farger,Hjemme hos,Interiør,Bolig
+cx:id56v6rrop0ksav7:pti0k0ezh196	104	Vassfjellet,Innbrudd
